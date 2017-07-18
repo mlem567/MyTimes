@@ -23,7 +23,7 @@ header {
   margin-right: 12px;
 }
 
-nav{
+.nav{
   display: inline-block;
   font-family: verdana;
   font-size: 14px;
@@ -32,7 +32,7 @@ nav{
   padding: 20 10 20 10;
 }
 
-span{
+.span{
   align-items: right;
   padding: 20 10 20 10;
 }

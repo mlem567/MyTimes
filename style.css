@@ -14,6 +14,7 @@ header {
 
 .logo span {
   color: MediumAquamarine;
+  align-items: center;
 }
 
 .logo img{
@@ -27,5 +28,5 @@ nav{
   font-family: verdana;
   font-size: 14px;
   font-weight: bold;
-  
+  align-items: right;
 }

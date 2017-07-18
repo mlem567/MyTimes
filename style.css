@@ -7,3 +7,9 @@ header {
 .logo span {
   color: MediumAquamarine;
 }
+
+.logo img{
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
+}

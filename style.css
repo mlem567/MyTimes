@@ -24,11 +24,11 @@ header {
   color: MediumAquamarine;
 }
 
-.nav{
-  display: inline-block;
-  font-family: verdana;
-  font-size: 14px;
-  font-weight: bold;
-  align-items: right;
-  padding: 20 10 20 10;
+header nav{
+  padding-right: 40px;
+}
+
+nav span{
+  diplay: inline-block;
+  padding: 20px 10px;
 }

@@ -13,9 +13,11 @@ header {
   position: fixed;
 }
 
-.logo span {
-  color: MediumAquamarine;
+.logo {
+  display: flex;
   align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
 }
 
 .logo img{

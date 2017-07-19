@@ -20,7 +20,9 @@ header {
   padding-left: 30px;
 }
 
-
+.logo span{
+  color: MediumAquamarine;
+}
 
 .nav{
   display: inline-block;

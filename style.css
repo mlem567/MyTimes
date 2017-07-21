@@ -44,3 +44,9 @@ nav span{
 .column.small{
   width: 240px;
 }
+
+.content{
+  display: flex;
+  width: 1232px;
+  padding-top: 116px;
+}

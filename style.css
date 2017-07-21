@@ -72,3 +72,12 @@ p{
 div {
   border: 1px solid black;
 }
+
+.image-content: {
+  height: 300px;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+
+}

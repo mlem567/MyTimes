@@ -54,6 +54,7 @@ nav span{
   width: 1232px;
   padding-top: 116px;
   margin: 0 auto 78px 10;
+  <!-- this is the margin for the content -->
 }
 
 .lead-story .image-content{
@@ -99,4 +100,10 @@ div {
 
 .cat-ceo.image-content{
       background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
+}
+
+h3{
+  display: block;
+  font-size: 1.17em;
+  font-weight: bold;
 }

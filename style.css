@@ -28,6 +28,12 @@ html{
   color: MediumAquamarine;
 }
 
+.logo img{
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
+}
+
 header nav{
   padding-right: 40px;
 }

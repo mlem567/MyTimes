@@ -123,5 +123,5 @@ h3{
 .story{
   display: flex;
   flex-direction: column;
-  width: 30px;
+  width: 300px;
 }

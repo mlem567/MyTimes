@@ -59,7 +59,7 @@ nav span{
   display: flex;
   width: 1232px;
   padding-top: 116px;
-  margin: 0 auto 78px 10;
+  margin: 0 auto 78px auto;
   <!-- this is the margin for the content -->
 }
 

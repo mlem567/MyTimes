@@ -82,7 +82,8 @@ p{
 }
 
 div {
-  border: 1px solid black;
+  <!-- remove border here -->
+  <!-- border: 1px solid black; -->
   display: block;
 }
 
@@ -94,7 +95,6 @@ div {
   color: white;
   text-align: center;
   margin-top: 15px;
-
 }
 
 .fall-cancelled.image-content{

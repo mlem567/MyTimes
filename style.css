@@ -13,6 +13,10 @@ header {
   position: fixed;
 }
 
+html{
+  display: block;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -49,6 +53,7 @@ nav span{
   display: flex;
   width: 1232px;
   padding-top: 116px;
+  margin: 0 auto 78px auto;
 }
 
 .lead-story .image-content{
